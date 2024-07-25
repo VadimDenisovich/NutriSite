@@ -1,0 +1,24 @@
+#basalBody {
+    width: 250px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.basalStrings {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+}
+
+.basalInputs {
+    width: 300px;
+}
+
+#basalButton {
+    margin-top: 10px;
+}
+
